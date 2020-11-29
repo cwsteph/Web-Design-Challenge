@@ -1,0 +1,41 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  #00b3b3;
+    padding-top: .4in;
+    padding-left: .1in;
+    font-weight: bold
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+    font-size: large;
+
+} 
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #00b3b3;
+    font-weight: bold;
+    text-align: center;
+}
+IMG.humid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+    IMG.cloud {
+        display: block;
+        margin-left: auto;
+        margin-right: auto }    
+
+        IMG.wind {
+            display: block;
+            margin-left: auto;
+            margin-right: auto }
+
+            IMG.temp {
+                display: block;
+                margin-left: auto;
+                margin-right: auto }
